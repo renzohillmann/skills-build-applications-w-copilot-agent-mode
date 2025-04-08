@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-8vfd7l%tzpb36btt@m_kfyn^&vivau-z^gxc7^=3nk==5uaxpk
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ['scaling-space-pancake-v4x4vq46pq72x77w-8000.app.github.dev', 'localhost']
 
 
 # Application definition
